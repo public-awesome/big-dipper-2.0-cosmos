@@ -1,23 +1,23 @@
 {
-  "title": "Desmos Block Explorer",
-  "network": "desmos-mainnet-1",
-  "icon": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/icon.svg?sanitize=true",
+  "title": "Stargaze Block Explorer",
+  "network": "stargaze-1",
+  "icon": "https://github.com/public-awesome/big-dipper-2.0-cosmos/raw/base/src/assets/stargaze-logo.png",
   "logo": {
-    "default": "https://raw.githubusercontent.com/forbole/big-dipper-assets/master/desmos/logo.svg?sanitize=true"
+    "default": "https://github.com/public-awesome/big-dipper-2.0-cosmos/raw/base/src/assets/stargaze-logo.png"
   },
   "prefix": {
-    "consensus": "desmosvalcons",
-    "validator": "desmosvaloper",
-    "account": "desmos"
+    "consensus": "starsvalcons",
+    "validator": "starsvaloper",
+    "account": "stars"
   },
   "genesis": {
     "time": "2021-07-13T08:00:00",
     "height": 1
   },
-  "primaryTokenUnit": "udsm",
+  "primaryTokenUnit": "ustars",
   "tokenUnits": {
-    "udsm": {
-      "display": "dsm",
+    "ustars": {
+      "display": "stars",
       "exponent": 6
     }
   },
