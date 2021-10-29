@@ -18,7 +18,7 @@
   "tokenUnits": {
     "ustars": {
       "display": "stars",
-      "exponent": 6
+      "exponent": 0
     }
   },
   "extra": {
